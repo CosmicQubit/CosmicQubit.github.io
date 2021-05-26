@@ -1,1 +1,1 @@
-# CosmicQubit.github.io
+# cosmicqubit.github.io
