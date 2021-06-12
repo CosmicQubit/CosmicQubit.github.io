@@ -90,7 +90,7 @@
     width: 340px;
   }
 }.u-section-2 {
-  background-image: url("images/640167728299ae0e02fc5e9e63cf798fae8b081d4de6d2d49f1dbff0f327d120da65b63715973875172c85843d422ec7bae29dd50083f78cec59c6_1280.jpg");
+  background-image: url("images/0df97451d569d5c41973fd59438976b0fcfd3e1469490fa91966fbdc127adfff8b90da579f31caaae00e370a133aa0502707f4e8921f260b9fcf42_1280.png");
   background-position: 50% 50%;
 }
 
@@ -148,8 +148,7 @@
     margin-right: auto;
   }
 }.u-section-3 {
-  background-image: url("images/a749b5df6922b2d91440b6c4547162b1b4b459c7c80be8a20f7bc2c7c9f7a7eb769a3a4e9d0b1cbb3b057d0697aa867fa561dc21c298230baa09df_1280.jpg");
-  background-position: 50% 50%;
+  background-image: none;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -327,7 +326,7 @@
     margin-right: -20px;
   }
 }.u-section-4 {
-  background-image: url("images/640167728299ae0e02fc5e9e63cf798fae8b081d4de6d2d49f1dbff0f327d120da65b63715973875172c85843d422ec7bae29dd50083f78cec59c6_1280.jpg");
+  background-image: url("images/0df97451d569d5c41973fd59438976b0fcfd3e1469490fa91966fbdc127adfff8b90da579f31caaae00e370a133aa0502707f4e8921f260b9fcf42_1280.png");
   background-position: 50% 50%;
 }
 
@@ -365,8 +364,7 @@
     min-height: 24px;
   }
 }.u-section-5 {
-  background-image: url("images/a749b5df6922b2d91440b6c4547162b1b4b459c7c80be8a20f7bc2c7c9f7a7eb769a3a4e9d0b1cbb3b057d0697aa867fa561dc21c298230baa09df_1280.jpg");
-  background-position: 50% 50%;
+  background-image: none;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -386,7 +384,7 @@
 }
 
 .u-section-5 .u-text-1 {
-  margin: 0;
+  margin: 6px 0 0;
 }
 
 .u-section-5 .u-layout-cell-2 {

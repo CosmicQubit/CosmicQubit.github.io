@@ -58,7 +58,7 @@
     margin: 322px 0 30px;
   }
 }.u-section-2 {
-  background-image: url("images/g5a6fbad56810a22329416cffe5fdc4a37d20a569f468e01b138553c4ec8c34ba9c012aa09587c20e9c7ecade86906165_1280.jpg");
+  background-image: url("images/abstract-3d-pink-and-blue-gradient-circles-shapes-vector-299542833.jpg");
   background-position: 50% 50%;
 }
 
@@ -123,10 +123,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 {
-    background-position: 0% 50%;
-  }
-
   .u-section-2 .u-sheet-1 {
     min-height: 386px;
   }
@@ -141,7 +137,7 @@
     margin-top: 30px;
   }
 }.u-section-3 {
-  background-image: url("images/a4f3f459362eb3502410ba9bda1b8957c5e4ae17bd95f1e325fd9a848247d90e3ecc25bf1a186bb998f2078c209486e9344af49ca588f2441b2253_1280.png");
+  background-image: url("images/049d64ee9a3cd117f1e99833ea9455e9cf2dd41550c0b287d195f52c4e5e3fa7940187c57d6448ad6e4cc58a22c19eaaba63f29d556c8a55a710d3_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -261,10 +257,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 {
-    background-position: 12.63% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 1670px;
   }
@@ -275,8 +267,7 @@
     margin-left: initial;
   }
 }.u-section-4 {
-  background-image: url("images/g5a6fbad56810a22329416cffe5fdc4a37d20a569f468e01b138553c4ec8c34ba9c012aa09587c20e9c7ecade86906165_1280.jpg");
-  background-position: 50% 50%;
+  background-image: none;
 }
 
 .u-section-4 .u-sheet-1 {
